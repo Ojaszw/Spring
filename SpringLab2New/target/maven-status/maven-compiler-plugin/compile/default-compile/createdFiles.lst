@@ -1,0 +1,8 @@
+com\cg\daos\TraineeDAO.class
+com\cg\exceptions\ApplicationException.class
+com\cg\daos\TraineeDAOImpl.class
+com\cg\controllers\TraineeController.class
+com\cg\service\TraineeService.class
+com\cg\exceptions\AppExceptionHandler.class
+com\cg\service\TraineeServiceImpl.class
+com\cg\entities\Trainee.class
